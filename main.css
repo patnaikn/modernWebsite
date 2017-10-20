@@ -134,6 +134,7 @@ nav ul li a:hover{
 }
 
 /* Banner section ends here */
+
 .inner-wrapper{
     float: left;
     width: 100%;
@@ -195,7 +196,9 @@ aside{
     padding: 0 0 1%;
     clear: both;
 }
+
 /*-- footer starts here --*/
+
 footer{
     background-color: #6991AC;
     width: 100%;
